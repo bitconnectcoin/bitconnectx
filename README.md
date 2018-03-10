@@ -1,0 +1,1 @@
+BitConnect X (BCCX) is an open source, blockchain based, decentralized cryptocurrency that enables instant payments to anyone with minimum transaction fees. BitConnect X also allows you to earn interest for helping maintain security on the network by holding BCCX in a Qt Desktop wallet that is attached to the network and allowing transactions to flow through it.
